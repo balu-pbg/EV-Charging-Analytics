@@ -1,0 +1,11 @@
+station_id,station_name,city,station_type,number_of_chargers,operating_hours
+ST001,Kakinada Highway Hub,Kakinada,Highway,8,24x7
+ST002,Kakinada City Center,Kakinada,Urban,6,06:00-23:00
+ST003,Railway Station Plaza,Kakinada,Transit,5,05:00-23:00
+ST004,Shopping Mall Station,Rajahmundry,Mall,8,09:00-22:00
+ST005,University Charging Hub,Rajahmundry,Campus,6,06:00-22:00
+ST006,NH16 Fast Charge,Tuni,Highway,10,24x7
+ST007,Bus Terminal Station,Amalapuram,Transit,4,06:00-23:00
+ST008,Market Road Chargers,Amalapuram,Urban,4,06:00-22:00
+ST009,Industrial Area Hub,Samalkota,Industrial,6,24x7
+ST010,Airport Road Station,Rajahmundry,Highway,8,24x7
